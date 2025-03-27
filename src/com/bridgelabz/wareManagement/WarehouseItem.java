@@ -1,4 +1,4 @@
-package com.bridgelabz.SmartWarehouse;
+package com.bridgelabz.wareManagement;
 
 // Abstract class that represents a generic warehouse item
 abstract class WarehouseItem {
